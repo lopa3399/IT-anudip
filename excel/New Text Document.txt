@@ -1,0 +1,66 @@
+ Description	
+1. Use the IF function to evaluate whether each product met its sales target.
+
+2. Use the IF function to determine if a product is eligible for a regional bonus. Products in the "North" region with sales over 200 are eligible.
+
+3. Use nested IF functions to assign a commission rate based on sales. Sales >= 200 get a 10% commission, sales >= 150 get a 7% commission, and others get a 5% commission.
+
+4. Use the IF function to calculate a bonus amount. If sales met or exceeded the target, the bonus is 10% of the sales; otherwise, it's 5%.
+
+5. Use the IF function to categorize sales performance as "Excellent" (>=200), "Good" (>=150), or "Needs Improvement" (<150).
+
+6. Use the IF function to assign a price tier based on the sales value. "High" for sales > 200, "Medium" for sales between 100 and 200, and "Low" for sales < 100.
+
+7. Use the IF function to calculate the year-end bonus. If sales >= 150 and region is "North", the bonus is $500, otherwise, it's $300.
+
+8. Use the IF function to mark high performers. A product is a high performer if its sales are in the top 25% of all sales.
+
+vlookup
+
+
+Task Description	
+Worksheet 1: Products
+
+ProductID Product Price
+
+101 Product A 120
+
+102 Product B 150
+
+103 Product C 200
+
+104 Product D 90
+
+105 Product E 220
+
+106 Product F 130
+
+Worksheet 2: Orders
+
+OrderID ProductID Quantity TotalPrice
+
+1 101 2
+
+2 103 1
+
+3 105 4
+
+4 106 3
+
+5 102 5
+
+6 104 6
+
+1. Use VLOOKUP to find the product names for each ProductID in the Orders worksheet.
+
+2. Use VLOOKUP to find the price for each ProductID in the Orders worksheet, then calculate the TotalPrice by multiplying the Quantity by the Product Price.
+
+3. Use VLOOKUP to check if there are any ProductIDs in the Orders worksheet that do not exist in the Products worksheet.
+
+4. Assume a discount of 10% is given on all products. Use VLOOKUP to find the original price and then calculate the discounted price.
+
+5. Use VLOOKUP to find the price for each ProductID and then calculate the order value. Find the maximum order value from the list.
+
+6. Use VLOOKUP to find out which products from the Products worksheet have not been ordered.
+
+7. Use VLOOKUP to find the Product name and summarize the total quantity sold for each product.
