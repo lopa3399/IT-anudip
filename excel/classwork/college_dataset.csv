@@ -1,0 +1,51 @@
+Student_ID,Name,Gender,Age,Department,Year,GPA,Attendance_%,Fees_Status,City
+S001,Rohit Singh,M,19,Computer Science,1,8.2,92,Paid,Kolkata
+S002,Neha Gupta,F,20,Electronics,2,7.5,88,Paid,Delhi
+S003,Aman Sharma,M,21,Mechanical,3,7.1,84,Unpaid,Bangalore
+S004,Simran Kaur,F,18,Computer Science,1,8.7,95,Paid,Chennai
+S005,Arjun Verma,M,22,Civil,4,6.9,79,Unpaid,Pune
+S006,Pooja Das,F,19,IT,1,8.4,91,Paid,Hyderabad
+S007,Aditya Rao,M,20,Electrical,2,7.9,86,Paid,Jaipur
+S008,Meera Nair,F,21,Mechanical,3,7.3,82,Unpaid,Kochi
+S009,Vikram Sinha,M,22,Civil,4,6.8,77,Paid,Ahmedabad
+S010,Kritika Jain,F,19,BBA,1,8.1,90,Paid,Bhopal
+S011,Manoj Patil,M,20,Computer Science,2,8.6,94,Paid,Nagpur
+S012,Shreya Sen,F,21,Electronics,3,7.4,85,Unpaid,Kolkata
+S013,Nikhil Joshi,M,22,Mechanical,4,6.7,78,Paid,Mumbai
+S014,Priya Kulkarni,F,18,BCA,1,8.3,93,Paid,Pune
+S015,Arnav Mishra,M,21,IT,3,7.6,87,Paid,Lucknow
+S016,Divya R,F,20,Electrical,2,7.2,81,Unpaid,Chennai
+S017,Hitesh Kumar,M,22,Civil,4,6.9,80,Paid,Delhi
+S018,Sonal Rani,F,19,Computer Science,1,8.5,94,Paid,Bangalore
+S019,Raj Mehta,M,20,Electronics,2,7.8,85,Unpaid,Ahmedabad
+S020,Ankita Jain,F,21,Mechanical,3,7.1,83,Paid,Hyderabad
+S021,Ashish Rao,M,22,Civil,4,6.6,76,Unpaid,Jaipur
+S022,Khushi Singh,F,18,Computer Science,1,8.9,96,Paid,Kolkata
+S023,Vishal Tiwari,M,19,Electrical,1,7.9,89,Paid,Delhi
+S024,Deepa R,F,20,IT,2,7.7,88,Paid,Pune
+S025,Ayush Sharma,M,21,BBA,3,7.2,84,Unpaid,Mumbai
+S026,Riya Nair,F,22,Electronics,4,7.0,80,Paid,Kochi
+S027,Harsh Patel,M,19,Computer Science,1,8.3,92,Paid,Surat
+S028,Kajal Gupta,F,20,Mechanical,2,7.4,86,Unpaid,Patna
+S029,Saurabh Jain,M,21,Civil,3,6.9,81,Paid,Lucknow
+S030,Tanya Sharma,F,18,BCA,1,8.4,93,Paid,Indore
+S031,Pranav Mehta,M,20,IT,2,7.6,87,Paid,Delhi
+S032,Anjali Verma,F,21,Electrical,3,7.1,82,Unpaid,Bhopal
+S033,Akash Singh,M,22,Civil,4,6.5,78,Paid,Bangalore
+S034,Muskan Jain,F,19,Computer Science,1,8.8,95,Paid,Kolkata
+S035,Rohan Rao,M,20,Electronics,2,7.3,83,Unpaid,Mumbai
+S036,Payal Shah,F,21,Mechanical,3,7.5,85,Paid,Pune
+S037,Mayank Soni,M,22,Civil,4,6.7,76,Unpaid,Jaipur
+S038,Kiran Kumar,F,18,BBA,1,8.1,91,Paid,Hyderabad
+S039,Sachin Jain,M,19,Electrical,1,7.8,88,Paid,Ahmedabad
+S040,Nidhi Rao,F,20,IT,2,7.7,86,Unpaid,Chennai
+S041,Varun Yadav,M,21,Mechanical,3,7.4,84,Paid,Lucknow
+S042,Shweta Patel,F,22,Civil,4,6.9,79,Paid,Surat
+S043,Krishan Kumar,M,19,Computer Science,1,8.6,93,Paid,Delhi
+S044,Sneha Nair,F,20,BCA,2,7.8,88,Unpaid,Kochi
+S045,Rohit Roy,M,21,Electronics,3,7.2,83,Paid,Kolkata
+S046,Aishwarya S,F,22,Mechanical,4,6.8,77,Paid,Pune
+S047,Nitin Verma,M,18,IT,1,8.3,92,Paid,Bangalore
+S048,Latika Sharma,F,20,BBA,2,7.9,87,Unpaid,Hyderabad
+S049,Harish Singh,M,21,Electrical,3,7.4,85,Paid,Delhi
+S050,Shruti Das,F,22,Civil,4,6.6,78,Unpaid,Chennai
